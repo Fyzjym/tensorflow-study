@@ -12,5 +12,9 @@ http://www.robots.ox.ac.uk/~vgg/data/pets/
 
 
 ## 资源推荐
-### 动手学深度学习（Dive into Deep Learning，D2L.ai）
+### 动手学深度学习（Dive into Deep Learning，D2L.ai） mxnet实现
 https://zh.d2l.ai/index.html
+### PyTorch实现
+http://tangshusen.me/Dive-into-DL-PyTorch/#/
+### TensorFlow2实现 
+https://trickygo.github.io/Dive-into-DL-TensorFlow2.0/#/
